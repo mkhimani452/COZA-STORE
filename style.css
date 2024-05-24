@@ -10,7 +10,7 @@
 .myfirstsection{
     height: 650px;
     /* border: 1px solid black; */
-    background-image: url('img/slide-03.jpg');
+    background-image: url('slide-03.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -86,7 +86,7 @@ ul{
     height: inherit;
     width: 40%;
     /* border:1px solid black;
-    background-image: url('/img/slide-03.jpg');
+    background-image: url('/slide-03.jpg');
     background-size: cover;
     background-repeat: no-repeat; */
 }
@@ -113,7 +113,7 @@ ul{
     height: 250px;
     width: 31%;
     border: 1px solid black;
-    background-image: url('img/banner-01.jpg');
+    background-image: url('banner-01.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
@@ -131,7 +131,7 @@ ul{
     height: 250px;
     width: 31%;
     border: 1px solid black;
-    background-image: url('img/banner-02.jpg');
+    background-image: url('banner-02.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
@@ -149,7 +149,7 @@ ul{
     height: 250px;
     width: 31%;
     border: 1px solid black;
-    background-image: url('img/banner-03.jpg');
+    background-image: url('banner-03.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
@@ -266,7 +266,7 @@ ul{
 .imgone{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-01.jpg');
+    background-image: url('product-01.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -281,21 +281,21 @@ ul{
 .imgtwo{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-02.jpg');
+    background-image: url('product-02.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgthree{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-03.jpg');
+    background-image: url('product-03.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgfour{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-04.jpg');
+    background-image: url('product-04.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -331,35 +331,35 @@ ul{
 .imgfour{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-04.jpg');
+    background-image: url('product-04.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgfive{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-05.jpg');
+    background-image: url('product-05.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgsix{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-06.jpg');
+    background-image: url('product-06.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgseven{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-07.jpg');
+    background-image: url('product-07.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgeight{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-08.jpg');
+    background-image: url('product-08.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -394,28 +394,28 @@ ul{
 .imgnine{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-09.jpg');
+    background-image: url('product-09.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgten{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-10.jpg');
+    background-image: url('product-10.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgeleven{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-11.jpg');
+    background-image: url('product-11.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .imgbar{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-12.jpg');
+    background-image: url('product-12.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -450,7 +450,7 @@ ul{
 .imgthrteen{
     height:290px;
     /* border: 1px solid black; */
-    background-image: url('img/product-13.jpg');
+    background-image: url('product-13.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -458,7 +458,7 @@ ul{
     height:290px;
     /* width: 100%; */
     /* border: 1px solid black; */
-    background-image: url('img/product-14.jpg');
+    background-image: url('product-14.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -466,7 +466,7 @@ ul{
     height:290px;
     /* width: 100%; */
     /* border: 1px solid black; */
-    background-image: url('img/product-15.jpg');
+    background-image: url('product-15.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -474,7 +474,7 @@ ul{
     height:290px;
     /* width: 100%; */
     /* border: 1px solid black; */
-    background-image: url('img/product-16.jpg');
+    background-image: url('product-16.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
